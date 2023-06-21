@@ -10,11 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/minbhone_thant?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/minbhone_thant?s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/min-bhone-thant-909b98252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/min-bhone-thant-909b98252" height="30" width="40" /></a>
-<a href="https://instagram.com/antraes.j.mickynium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antraes.j.mickynium" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/min-bhone-thant-909b98252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/min-bhone-thant-909b98252" height="30" width="40" /></a>
+<a href="https://www.instagram.com/min_bhone_thant/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="antraes.j.mickynium" height="30" width="40" /></a>
 <a href="https://dribbble.com/min_bhone_thant_ajm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="min_bhone_thant_ajm" height="30" width="40" /></a>
 <a href="https://medium.com/@jackalanmus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jackalanmus" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@antaresjacxmickynium4640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@antaresjacxmickynium4640" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@antaresjacxmickynium4640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@antaresjacxmickynium4640" height="30" width="40" /></a>
 <a href="https://discord.gg/JAXC#9721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="JAXC#9721" height="30" width="40" /></a>
 </p>
 
