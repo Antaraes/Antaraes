@@ -24,7 +24,14 @@
 # 📊 GitHub Stats:
 ![Min Bhone Thant's Stats](https://github-readme-stats.vercel.app/api?username=Antaraes&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)<br/>
 ![Min Bhone Thant's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=Antaraes&theme=dark&hide_border=true)<br/>
-![Min Bhone Thant's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antaraes&langs_count=12&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antaraes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
 ![Min Bhone Thant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph/?username=Antaraes&radius=6&theme=dark&hide_border=true) 
+<p align="center">
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Antaraes&theme=dark" width="26%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Antaraes&theme=dark" width="26%" align="right"  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Antaraes&theme=dark" width="26%" align="center" title="productive time" />  
+</div>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Antaraes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
+
